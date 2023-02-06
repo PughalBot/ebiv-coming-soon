@@ -1,5 +1,6 @@
 {
   "name": "coming-soon",
+  "homepage": "https://pughalbot.github.io/ebiv-coming-soon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
